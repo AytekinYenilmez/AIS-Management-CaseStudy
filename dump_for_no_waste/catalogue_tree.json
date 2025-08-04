@@ -1,0 +1,38 @@
+{
+  "Kurztext / Bezeichnung": {
+    "_direct": "Artikelnummer"
+  },
+  "Fenster mit Kipp- oder Drehflügel": {
+    "kraftbetrieben": {
+      "_article": "334.01.01.000.01.00"
+    },
+    "nicht kraftbetrieben": {
+      "_article": "334.01.01.000.02.00"
+    }
+  },
+  "Hochwasserschutzfenster": {
+    "nicht kraftbetrieben": {
+      "_article": "334.01.02.000.01.00"
+    }
+  },
+  "Falttor": {
+    "kraftbetrieben": {
+      "Breite < 8 m": {
+        "_article": "334.02.01.000.01.01"
+      }
+    },
+    "nicht kraftbetrieben": {
+      "Breite < 8 m": {
+        "_article": "334.02.01.000.02.01"
+      }
+    }
+  },
+  "Rolläden": {
+    "elektrisch": {
+      "_article": "338.01.01.194.01.00"
+    },
+    "mechanisch": {
+      "_article": "338.01.01.194.02.00"
+    }
+  }
+}

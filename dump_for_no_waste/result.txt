@@ -1,0 +1,58 @@
+Wartung und Inspektion
+"330 - Außenwände - Wände und Stützen, die dem Außenklima ausgesetzt sind bzw. an das Erdreich oder an andere Bauwerke grenzen"
+334 - Außentüren und -fenster
+"338 - Sonnenschutz - Rollläden, Markisen und Jalousien einschließlich Antrieben"
+"339 - Außenwände, sonstiges - Gitter, Geländer, Stoßabweiser und Handläufe"
+340 - Innenwände - Innenwände und Innenstützen
+"346 - Elementierte Innenwände - Elementierte Wände, bestehend aus Innenwänden, -türen, -fenstern, -bekleidungen, z. B. Falt- und Schiebewände, Sanitärtrennwände, Verschläge"
+360 - Dächer - Flache oder geneigte Dächer
+"362 - Dachfenster, Dachöffnungen - Fenster, Ausstiege einschließlich Umrahmungen, Beschlägen, Antrieben, Lüftungselementen und sonstigen eingebauten Elementen"
+"363 - Dachbeläge - Beläge auf Dachkonstruktionen einschließlich Schalungen, Lattungen, Gefälle-, Dichtungs-, Dämm-, Schutz- und Nutzschichten; Entwässerungen der Dachfläche bis zum Anschluss an die Abwasseranlagen"
+"380 - Baukonstruktive Einbauten, sonstiges"
+"387 - Baukonstruktive Einbauten, sonstiges - z. B. Rauchschutzvorhänge"
+390 - Sonstige Maßnahmen für Baukonstruktionen - Baukonstruktionen und übergreifende Maßnahmen im Zusammenhang mit den Baukonstruktionen
+"399 - Sonstige Maßnahmen für Baukonstruktionen, sonstiges - Baukonstruktionen, die mehrere Kostengruppen betreffen"
+"410 - Abwasser-, Wasser-, Gasanlagen"
+411 - Abwasseranlagen
+412 - Wasseranlagen
+413 - Gasanlagen
+"419 - Sonstige Maßnahmen für Abwasser-, Wasser-, Gasanlagen, sonstiges"
+420 - Wärmeversorgungsanlagen
+421 - Wärmeerzeugungsanlagen
+422 - Wärmeverteilnetze
+423 - Raumheizflächen
+"429 - Wärmeversorgungsanlagen, sonstiges"
+430 - Lufttechnische Anlagen
+431 - Lüftungsanlagen
+432 - Teilklimaanlagen
+433 - Klimaanlagen
+434 - Kälteanlagen
+"439 - Lufttechnische Anlagen, sonstiges"
+440 - Starkstromanlagen
+441 - Hoch- und Mittelspannungsanlagen
+442 - Eigenstromversorgungsanlagen
+443 - Niederspannungsschaltanlagen
+444 - Niederspannungsinstallationsanlagen
+445 - Beleuchtungsanlagen
+446 - Blitzschutz- und Erdungsanlagen
+"449 - Starkstromanlagen, sonstiges"
+"450 - Fernmelde- und informationstechnische Anlagen - Die einzelnen Anlagen enthalten die zugehörigen Verteiler, Kabel, Leitungen."
+451 - Telekommunikationsanlagen
+452 - Such- und Signalanlagen
+453 - Zeitdienstanlagen
+454 - Elektroakustische Anlagen
+455 - Fernseh- und Antennenanlagen
+456 - Gefahrenmelde- und Alarmanlagen
+457 - Übertragungsnetze
+460 - Förderanlagen
+461 - Aufzugsanlagen
+"462 - Fahrtreppen, Fahrsteige"
+463 - Befahranlagen - Fassadenaufzüge und andere Befahranlagen
+465 - Krananlagen - Einschließlich Hebezeuge
+"469 - Förderanlagen, sonstiges"
+470 - Nutzungsspezifische Anlagen
+"474 - Feuerlöschanlagen - Sprinkler-, Gaslöschanlagen, Löschwasserleitungen, Wandhydranten, Handfeuerlöscher"
+"478 - Entsorgungsanlagen - Abfall- und Medienentsorgungsanlagen, Staubsauganlagen"
+480 - Gebäudeautomation - Kosten der anlageübergreifenden Automation
+481 - Automationssysteme
+482 - Schaltschränke
